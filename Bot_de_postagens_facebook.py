@@ -1,5 +1,4 @@
 from time import sleep
-import Config
 from selenium import webdriver
 from selenium.webdriver import Keys
 from selenium.webdriver.chrome.service import Service as ChromeService
